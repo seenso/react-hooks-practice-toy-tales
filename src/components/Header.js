@@ -1,6 +1,7 @@
 import React from "react";
 
 function Header() {
+  console.log();
   return (
     <div id="toy-header">
       <img
